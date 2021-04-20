@@ -1,0 +1,19 @@
+{
+    "cocktails": [
+        {
+            "name": "Sex on the Beach",
+            "price": 12,
+            "img": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/vimdb/209813.jpg"
+        },
+        {
+            "name": "Mojito",
+            "price": 8,
+            "img": "https://static.750g.com/images/1200-630/b520523117d647dab6b842a36f4cc7f5/mojito-le-vrai.jpg"
+        },
+        {
+            "name": "bloody mary",
+            "price": 1,
+            "img": "https://i.4pcdn.org/s4s/1398123404333.gif"
+        }
+    ]
+}
